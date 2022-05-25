@@ -10,4 +10,5 @@ function clickbutton() {
 
 if (clicks < 10) {
   generator++;
+  clicks = 0;
 }
